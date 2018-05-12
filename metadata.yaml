@@ -1,0 +1,30 @@
+_repo: La-camicia-rossaEpisodi---Terza-edizione-riveduta-e-corretta_29871
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mario, Alberto
+    birthdate: 1825
+    deathdate: 1883
+    gutenberg_agent_id: '34218'
+    url: http://www.gutenberg.org/2009/agents/34218
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2009-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29871'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Garibaldi, Giuseppe, 1807-1882 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Spedizione dei Mille (1860) -- Fiction'
+title: 'La camicia rossa
+
+  Episodi - Terza edizione riveduta e corretta'
+url: http://www.gutenberg.org/ebooks/29871
