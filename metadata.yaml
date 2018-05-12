@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34218'
     url: http://www.gutenberg.org/2009/agents/34218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29871#La-camicia-rossaEpisodi---Terza-edizione-riveduta-e-corretta
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2009-08-31'
 gutenberg_type: Text
